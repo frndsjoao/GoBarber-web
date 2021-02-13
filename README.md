@@ -58,8 +58,6 @@ Technologies that I used to develop this website
 
 ## 💻 Getting started
 
-### ⚠ Requirements
-
 <strong>⚠ Requirements:</strong> have this application's [API](https://github.com/frndsjoao/GoBarber-backend) running.
 
 **Clone the project and access the folder**
