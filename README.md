@@ -27,17 +27,24 @@
   <img alt="logo" src="./public/macbook_gobarber.png" width="600px">
 </p>
 
+
 ## 📄 About the project
 
 Go to **api** here: [GoBarber Rest API](https://github.com/frndsjoao/GoBarber-backend)</br>
-Go to **mobile client** here: [GoBarber Mobile](https://github.com/frndsjoao/GoBarber-app)
+Go to **mobile client** here: [GoBarber Mobile](https://github.com/frndsjoao/GoBarber-app)</br>
+
+GoBarber is an application/web that makes it possible to register barbers and control customer schedules. The schedule is done by the mobile application, while the web take care of displaying it for the barber.
+
+**Gobarber is an application developed during GoStack Bootcamp, by Rocketseat, focused to learn the best use of ReactJS.**
+I'm totally thankful to Rocketseat for the excellent bootcamp.
+
 
 ## 💻 Technologies
 
-Technologies that I used to develop this web client
+Technologies that I used to develop this website
 
 <p>
-  <a href=("https://reactjs.org/">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://pt-br.reactjs.org/">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/">Typescript</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://react-icons.netlify.com/#/">React Icons</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://styled-components.com/">Styled Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -53,7 +60,7 @@ Technologies that I used to develop this web client
 
 ### ⚠ Requirements
 
-- Have this application's [API](https://github.com/frndsjoao/GoBarber-backend) running.
+<strong>⚠ Requirements:</strong> have this application's [API](https://github.com/frndsjoao/GoBarber-backend) running.
 
 **Clone the project and access the folder**
 
