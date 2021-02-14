@@ -29,9 +29,9 @@
 ## 📄 About the project
 
 Go to **api** here: [GoBarber Rest API](https://github.com/frndsjoao/GoBarber-backend)</br>
-Go to **mobile client** here: [GoBarber Mobile](https://github.com/frndsjoao/GoBarber-app)</br>
+Go to **mobile client** here: [GoBarber mobile](https://github.com/frndsjoao/GoBarber-web)</br>
 
-GoBarber is an application/web that makes it possible to register barbers and control customer schedules. The schedule is done by the mobile application, while the web take care of displaying it for the barber.
+GoBarber is an application/web that makes it possible to register barbers and control customer schedules. **The schedule is done by the mobile application**, while the web take care of displaying it for the barber.
 
 **Gobarber is an application developed during GoStack Bootcamp, by Rocketseat, focused to learn the best use of ReactJS.**
 I'm totally thankful to Rocketseat for the excellent bootcamp.
@@ -42,9 +42,9 @@ I'm totally thankful to Rocketseat for the excellent bootcamp.
 Technologies that I used to develop this website
 
 <p>
-  <a href="https://reactnative.dev/">React Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://pt-br.reactjs.org/">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/">Typescript</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnavigation.org/">React Navigation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://react-icons.netlify.com/#/">React Icons</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://styled-components.com/">Styled Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/axios/axios">Axios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://unform.dev/">Unform</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -61,7 +61,7 @@ Technologies that I used to develop this website
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/frndsjoao/GoBarber-app.git && cd gobarber-app
+$ git clone https://github.com/frndsjoao/GoBarber-web.git && cd gobarber-web
 ```
 
 **Then install the dependencies**
@@ -70,12 +70,8 @@ $ git clone https://github.com/frndsjoao/GoBarber-app.git && cd gobarber-app
 # Install the dependencies
 $ yarn
 
-# If you are going to emulate with android, run this command
-# Be sure to have the emulator open
-$ yarn android
-
-# If you are going to emulate with ios, run this command
-$ yarn ios
+# Start the client
+$ yarn start
 ```
 
 ## 📝 License
