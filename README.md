@@ -42,9 +42,9 @@ I'm totally thankful to Rocketseat for the excellent bootcamp.
 Technologies that I used to develop this website
 
 <p>
-  <a href="https://pt-br.reactjs.org/">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://reactnative.dev/">React Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/">Typescript</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://react-icons.netlify.com/#/">React Icons</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://reactnavigation.org/">React Navigation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://styled-components.com/">Styled Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/axios/axios">Axios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://unform.dev/">Unform</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -61,7 +61,7 @@ Technologies that I used to develop this website
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/frndsjoao/GoBarber-web.git && cd gobarber-web
+$ git clone https://github.com/frndsjoao/GoBarber-app.git && cd gobarber-app
 ```
 
 **Then install the dependencies**
@@ -70,8 +70,12 @@ $ git clone https://github.com/frndsjoao/GoBarber-web.git && cd gobarber-web
 # Install the dependencies
 $ yarn
 
-# Start the client
-$ yarn start
+# If you are going to emulate with android, run this command
+# Be sure to have the emulator open
+$ yarn android
+
+# If you are going to emulate with ios, run this command
+$ yarn ios
 ```
 
 ## 📝 License
